@@ -1,0 +1,23 @@
+{
+    "id": "quire",
+    "name": "quire",
+    "version": "1.0.0",
+    "description": "Quire",
+    "main": "index.js",
+    "author": "trevormichael",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://quire.io/",
+        "serviceName": "Quire",
+        "message": "Quire",
+        "popup": [],
+        "hasNotificationSound": false,
+        "hasIndirectMessages": false,
+        "customURL": false,
+        "hasTeamID": false,
+        "webviewOptions": {
+            "disablewebsecurity": ""
+        },
+        "openDevTools": false
+    }
+}
